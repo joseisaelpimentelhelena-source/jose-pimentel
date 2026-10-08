@@ -1,1 +1,1 @@
-# jose-pimentel
+Mi nombre es isael pimentel y creare un proyecto de la empresa del ayutamiento tomando en cuenta entrevista que le hice al administrador de la empresa mi objetivo es crear un sistema para el negocio automatizar sus funciones y mejorar los procesos ya existentes.
